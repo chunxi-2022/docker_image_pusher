@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 yanyuwangluo/qinglong:2.17.9
 whyour/qinglong:latest
+okhanyu/minichat:latest
