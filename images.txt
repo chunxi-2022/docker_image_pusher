@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 yanyuwangluo/qinglong:2.17.9
+platform=linux/arm64 whyour/qinglong:latest
