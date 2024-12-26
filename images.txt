@@ -9,4 +9,4 @@ whyour/qinglong:latest
 okhanyu/minichat:latest
 hello-world:latest
 portainer/portainer-ce:latest
-homeassistant/home-assistant:latest
+homeassistant/home-assistant:stable
